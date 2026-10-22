@@ -1,0 +1,4 @@
+minimumReleaseAgeExclude:
+  - caniuse-lite
+  - node-releases
+  - on-finished
